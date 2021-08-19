@@ -3,8 +3,9 @@ Python developer, constantly learning ++ discord application development.
 
  - Developer for https://swiftnotify.co.uk
  - Creating SwiftTools
+![Swift Tools](https://i.imgur.com/d6PaBAb.png)
 
-Looking for work.
+Looking for work!
 <!--
 **CXSNKRS/cxsnkrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
