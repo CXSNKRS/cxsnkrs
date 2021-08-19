@@ -1,10 +1,10 @@
 ### print("Hi there 👋")
 Python developer, constantly learning ++ discord application development.
 
- - Developer for https://swiftnotify.co.uk
- - Creating SwiftTools
+ if Developer for https://swiftnotify.co.uk == True:
+    cxsnkrs = "Creating SwiftTools"
 
-### SwiftTools Preview 
+### def swift_tools():
 ![Swift Tools](https://i.imgur.com/d6PaBAb.png)
 
 <!--
