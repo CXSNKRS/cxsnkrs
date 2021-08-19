@@ -1,10 +1,10 @@
-### Hi there 👋
+### print("Hi there 👋")
 Python developer, constantly learning ++ discord application development.
 
  - Developer for https://swiftnotify.co.uk
  - Creating SwiftTools
 
-### SwiftTools Preview \n
+### SwiftTools Preview 
 ![Swift Tools](https://i.imgur.com/d6PaBAb.png)
 
 <!--
